@@ -67,6 +67,13 @@
     background-position: center;
     background-size: cover;
 }
+.ggg{
+    background: url(https://pn-paul.netlify.app/image/CONTACT-US.jpg);
+     width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+}
 
 
 .a {
@@ -259,4 +266,12 @@ element.style {
 }
 .fa-regular, .far {
     font-weight: 400;
+}
+
+.text-white {
+    --bs-text-opacity: 1;
+    color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
+}
+.text-center {
+    text-align: center !important;
 }
